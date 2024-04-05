@@ -1,0 +1,15 @@
+Word, Synonym, Antonym, Meaning
+Abundant,Ample, Scarce, oversufficient
+Appeal, Attract, Bore, petition
+Elaborate, Detailed, Plain, worked out with great care and nicety of detail
+Optimistic, Bright, Pessimistic, disposed to take a favorable view of events or conditions and to expect the most favorable outcome
+Boisterous, Lively, Restrained, rough and noisy
+Inept, Incompetent, Unskilled, without skill or aptitude for a particular task or assignment
+Soothe, Ease, Relieve, to tranquilize or calm
+Linger, Stay put, Vanish, to remain or stay on in a place longer than is usual or expected
+Vital, Essential, Unimportant, essential.  Heat :Hotter,Thing,Hotter ;  
+Good :Better,NotBetter,Good ;  
+Education :Learning,Uneducated,Qualifide ;  
+Huge :Big,Small,Large ;  
+Small :little,Large,little ;  
+Fun :FunTime,Boring,Enjoyment ; 

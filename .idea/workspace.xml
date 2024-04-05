@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d24a335-7b20-4cf9-80f8-ba456f1b53e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZdMIl67iIrvfwrNRE7Se1PwWtV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DSA/Library-Management-System-Searching-catalogues-in-library-using-binary-search-tree-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.DictionaryTest">
+    <configuration name="AVL_Dictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AVL_Dictionary" />
+      <module name="second" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DictionaryTest" />
+      <module name="second" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FianlSortP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FianlSortP" />
+      <module name="second" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FinalP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalP" />
+      <module name="second" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2_Mid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q2_Mid" />
+      <module name="second" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DictionaryTest" />
+        <item itemvalue="Application.AVL_Dictionary" />
+        <item itemvalue="Application.FinalP" />
+        <item itemvalue="Application.FianlSortP" />
+        <item itemvalue="Application.Q2_Mid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d24a335-7b20-4cf9-80f8-ba456f1b53e5" name="Default Changelist" comment="" />
+      <created>1585164440690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585164440690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1609136114143">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609136114143" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612129202750">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1612129202750" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1609966441445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609966441445" />
+    <state width="1323" height="332" key="GridCell.Tab.0.bottom" timestamp="1612131697412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="332" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612131697412" />
+    <state width="1323" height="332" key="GridCell.Tab.0.center" timestamp="1612131697412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="332" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612131697412" />
+    <state width="1323" height="332" key="GridCell.Tab.0.left" timestamp="1612131697412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="332" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612131697412" />
+    <state width="1323" height="332" key="GridCell.Tab.0.right" timestamp="1612131697412">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="332" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612131697412" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1610575292325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610575292325" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1610575292325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610575292325" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1610575292325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610575292325" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1610575292325">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610575292325" />
+    <state x="447" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1612110077869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="67" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1612110077869" />
+    <state x="65" y="0" key="new project wizard" timestamp="1609874194411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1609874194411" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1610569063015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1610569063015" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
